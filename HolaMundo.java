@@ -1,5 +1,4 @@
-public class HolaMundo {
-    public static void imprimir(){
-        System.out.println("Hola Mundo");
-    }
+public class HolaMundo extends Imprimir{
+    public String mensaje = "Hola Mundo";
+
 }
