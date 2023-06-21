@@ -7,4 +7,9 @@ public class Imprimir {
         double resultado = n+m; 
         System.out.println(resultado);
     }
+
+    public static void imprimirResta(int n, int m) {
+        double resultado = n-m; 
+        System.out.println(resultado);
+    }
 }

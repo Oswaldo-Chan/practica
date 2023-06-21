@@ -3,5 +3,6 @@ public class App {
         HolaMundo hm = new HolaMundo();
         HolaMundo.imprimir(hm.mensaje);
         HolaMundo.imprimirSuma(2,4);
+        HolaMundo.imprimirResta(2,3);
     }
 }
