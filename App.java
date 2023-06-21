@@ -4,5 +4,6 @@ public class App {
         HolaMundo.imprimir(hm.mensaje);
         HolaMundo.imprimirSuma(2,4);
         HolaMundo.imprimirResta(2,3);
+        HolaMundo.imprimirResta(6,5);
     }
 }

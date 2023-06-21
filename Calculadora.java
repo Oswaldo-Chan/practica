@@ -1,4 +1,8 @@
 public class Calculadora {
+
+    public void init() {
+
+    }
     public double suma() {
         return 0;
     }
@@ -10,5 +14,9 @@ public class Calculadora {
     }
     public double multiplicacion() {
         return 0;
+    }
+
+    public void imprimirErrores() {
+        
     }
 }
